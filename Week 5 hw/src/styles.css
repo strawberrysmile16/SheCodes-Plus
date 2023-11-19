@@ -1,0 +1,35 @@
+body {
+  width: 600px;
+  margin: 0 auto;
+  padding-top: 60px;
+}
+
+h1 {
+  font-size: 30px;
+  padding-left: 15px;
+  color: #2066e9;
+}
+
+li {
+  list-style-type: none;
+  font-size: 18px;
+  line-height: 1.4;
+  color: rgb(106, 107, 107);
+}
+
+img {
+  width: 100px;
+  padding: 10px;
+}
+
+.units {
+  display: inline-block;
+  vertical-align: top;
+}
+.container {
+  background: linear-gradient(to top, #fff1eb 0%, #ace0f9 100%);
+}
+
+.temperature {
+  font-size: 60px;
+}
